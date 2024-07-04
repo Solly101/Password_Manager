@@ -1,2 +1,2 @@
 # Password_Manager
-Python script that stored hashed passwords in Azure key vault.
+Python script that stores hashed passwords in Azure key vault.
