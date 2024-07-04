@@ -3,8 +3,8 @@ Python script that stores hashed passwords in Azure key vault.
 
 ### Features
 - This python script connects to Azure key vault using the application credentials to create a service principal to access Azure key vault. 
--Then it prompts the user to add a username and password. 
--The script then hashes the password and store the username and password as a key vault secret. 
+- Then it prompts the user to add a username and password. 
+- The script then hashes the password and store the username and password as a key vault secret. 
 
 ### How to get Started?
 
